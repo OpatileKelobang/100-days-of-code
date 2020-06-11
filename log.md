@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 10, 2022
+### Day 1: June 10, 2022
 ##### Codeacademy
 
 **Today's Progress**: Learning JavaScript.
@@ -9,7 +9,7 @@
 
 **Link to work:** [Badges](https://www.codecademy.com/users/Opatile/achievements)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 1, 2020
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
