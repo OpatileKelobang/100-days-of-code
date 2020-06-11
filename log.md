@@ -3,7 +3,8 @@
 ### Day 1: June 10, 2022
 ##### Codeacademy
 
-**Today's Progress**: Learning JavaScript.
+**Today's Progress**: Learning JavaScript Fundemenatls. 
+Worked through variables and conditionals.
 
 **Thoughts:** No issues. Concepts are easy to undersant.
 
