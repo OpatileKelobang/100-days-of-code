@@ -6,7 +6,7 @@
 **Today's Progress**: Learning JavaScript Fundemenatls. 
 Worked through variables and conditionals.
 
-**Thoughts:** No issues. Concepts are easy to undersant.
+**Thoughts:** No issues. Concepts are easy to undersant at this point.
 
 **Link to work:** [Badges](https://www.codecademy.com/users/Opatile/achievements)
 
