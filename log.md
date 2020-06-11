@@ -11,9 +11,9 @@ Worked through variables and conditionals.
 **Link to work:** [Badges](https://www.codecademy.com/users/Opatile/achievements)
 
 ### Day 2: June 11, 2020
-##### (delete me or comment me out)
+##### Codeacademy
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Moved onto OOP princilpes. Function delcarations, and calls
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
