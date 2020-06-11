@@ -9,7 +9,7 @@
 
 **Link to work:** [Badges](https://www.codecademy.com/users/Opatile/achievements)
 
-### Day 2: June 1, 2020
+### Day 2: June 11, 2020
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
