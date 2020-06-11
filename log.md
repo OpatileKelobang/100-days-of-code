@@ -15,9 +15,9 @@ Worked through variables and conditionals.
 
 **Today's Progress**: Moved onto OOP princilpes. Function delcarations, and invocation. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: OOP concepts easily understandable. Helper functions have too much theory, bt generally still easy at this stage.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Badges](https://www.codecademy.com/users/Opatile/achievements)
 
 
 ### Day 1: June 27, Monday
