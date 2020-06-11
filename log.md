@@ -13,7 +13,7 @@ Worked through variables and conditionals.
 ### Day 2: June 11, 2020
 ##### Codeacademy
 
-**Today's Progress**: Moved onto OOP princilpes. Function delcarations, and calls
+**Today's Progress**: Moved onto OOP princilpes. Function delcarations, and invocation. 
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
